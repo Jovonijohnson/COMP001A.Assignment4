@@ -11,8 +11,11 @@ header  {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 body {
-    background-color: gray;
-    background-image:url("images/dungeonbg.png");
+
+    background-image:url("media/dungeon3.png");
+}
+body  p{
+    color: crimson;
 }
 
 /* Adjust style for h1 */
