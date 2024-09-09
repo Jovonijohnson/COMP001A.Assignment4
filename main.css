@@ -4,15 +4,15 @@
 */
 /* Adjust style for body */
 header  {
-    background-color: white(9, 9, 9);
+    background-color: white;
     color: white;
     text-align: center;
     font-size: xx-large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 body {
-    background-color: gray 
-    background-image:url("images/dungeonbg.png")
+    background-color: gray;
+    background-image:url("images/dungeonbg.png");
 }
 
 /* Adjust style for h1 */
